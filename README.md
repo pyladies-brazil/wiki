@@ -1,17 +1,12 @@
 # Wiki - PyLadies Brasil
 
-View the book with "<i class="fa fa-book fa-fw"></i> Book Mode".
+[![hackmd-github-sync-badge](https://hackmd.io/qFqUY_MNTsOJNYwU3TOb2Q/badge)](https://hackmd.io/qFqUY_MNTsOJNYwU3TOb2Q)
 
-Examples
----
-- [Book example](/s/book-example)
-- [Slide example](/s/slide-example)
-- [YAML metadata](/s/yaml-metadata)
-- [Features](/s/features)
+# Documentação Oficial do PyLadies Brasil
 
-Themes
----
-- [Dark theme](/theme-dark?both)
-- [Vertical alignment](/theme-vertical-writing?both)
+Oi!
 
-###### tags: `Templates` `Book`
+Esse o nosso repositório oficial de documentação.
+Aqui você vai encontrar informações sobre como criar um grupo PyLadies local, informações sobre grupos existentes e um pouco mais sobre a nossa forma de trabalho.
+
+Essa documentação é uma documentação viva, em construção permanente, e qualquer pessoa é bem-vinda a contribuir!
